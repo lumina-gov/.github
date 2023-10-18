@@ -6,6 +6,7 @@ Welcome to the Lumina Government Github profile! This is where we will share our
 ## About Lumina
 Lumina is a planned city-state located in the Auckland Islands, off the coast of New Zealand. Our city-state operates under a system of direct democracy and individual freedom, with the goal of establishing a modern, technologically advanced society.
 
+## [Visit Developer Wiki](https://github.com/lumina-gov/.github/wiki)
 
 ## Our Government
 Our laws are proposed and passed by voting citizens through the digital Lumina Assembly platform. Citizens can propose changes in legislation via petition, and after gaining enough support, the proposal will be voted on for approval or rejection.
