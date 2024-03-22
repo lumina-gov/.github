@@ -4,7 +4,7 @@
 Welcome to the Lumina Government Github profile! This is where we will share our code and technical projects related to our operations as a city-state.
 
 ## About Lumina
-Lumina is a planned city-state located in the Auckland Islands, off the coast of New Zealand. Our city-state operates under a system of direct democracy and individual freedom, with the goal of establishing a modern, technologically advanced society.
+[Lumina](https://github.com/apps/lumina-iter) is a planned city-state located in the Auckland Islands, off the coast of New Zealand. Our city-state operates under a system of direct democracy and individual freedom, with the goal of establishing a modern, technologically advanced society.
 
 ## [Visit Developer Wiki](https://github.com/lumina-gov/.github/wiki)
 Visit the developer Wiki through the link above to read docs and information.
@@ -20,3 +20,4 @@ To learn more about Lumina and how you can become involved, visit our official w
 - [Discord server](https://discord.gg/r4vNcUKktT)
 - [Apply for Citizenship](https://lumina.earth/citizenship)
 - [Official Website](https://lumina.earth)
+
